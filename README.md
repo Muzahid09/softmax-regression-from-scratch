@@ -26,15 +26,15 @@ Key Topics Covered
 
 Softmax_Regression_from_Scratch/
 │-- Notebooks/
-│   ├── Softmax_regression.ipynb  # Jupyter Notebook with full explanation
-│   ├── accuracy.txt              # Accuracy of the trained model
+│   ├── Softmax_regression.ipynb
+│   ├── accuracy.txt
 │
 │-- Images/
-│   ├── loss_plot.png             # Loss reduction over iterations
-│   ├── decision_boundary.png     # Final decision boundary
+│   ├── loss_plot.png
+│   ├── decision_boundary.png
 │
-│-- requirements.txt              # Dependencies for running the notebook
-│-- README.md                     # Project documentation
+│-- requirements.txt
+│-- README.md
 
 
 
