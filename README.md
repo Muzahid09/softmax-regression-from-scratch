@@ -18,7 +18,7 @@ Softmax Regression is a classification algorithm used when the target variable h
 
 
 ## 📂 Project Structure  
-```plaintext
+```
 Softmax_Regression_from_Scratch/  
 │-- Notebooks/  
 │   ├── Softmax_regression.ipynb  
@@ -28,7 +28,7 @@ Softmax_Regression_from_Scratch/
 │   ├── decision_boundary.png  
 │-- requirements.txt  
 │-- README.md  
-
+```
 
 
 
