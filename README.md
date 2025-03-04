@@ -17,17 +17,18 @@ Softmax Regression is a classification algorithm used when the target variable h
 
 
 
-## 📂 Project Structure
+## 📂 Project Structure  
+```plaintext
+Softmax_Regression_from_Scratch/  
+│-- Notebooks/  
+│   ├── Softmax_regression.ipynb  
+│   ├── accuracy.txt  
+│-- Images/  
+│   ├── loss_plot.png  
+│   ├── decision_boundary.png  
+│-- requirements.txt  
+│-- README.md  
 
-Softmax_Regression_from_Scratch/
-│-- Notebooks/
-│ ├── Softmax_regression.ipynb
-│ ├── accuracy.txt
-│-- Images/
-│ ├── loss_plot.png
-│ ├── decision_boundary.png
-│-- requirements.txt
-│-- README.md
 
 
 
